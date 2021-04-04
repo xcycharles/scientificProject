@@ -7,3 +7,4 @@ yfinance
 yahoo_fin
 statsmodel
 seaborn
+openpyxl
